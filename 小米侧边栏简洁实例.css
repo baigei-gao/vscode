@@ -1,0 +1,17 @@
+a:hover {
+  background-color: coral;
+}
+
+a {
+  width: 200px;
+  height: 40 px;
+  display: block;
+  text-decoration: none;
+  color: white;
+  background-color: #55585a;
+  font-size: 14px;
+  text-indent: 2em;
+  /* 使用此方法将文字在盒子中居中对齐 */
+  line-height: 40px;
+  padding-left: 30px;
+}
